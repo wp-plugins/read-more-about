@@ -1,0 +1,48 @@
+/*
+* The stylesheet for the Read More About section.
+*
+* Author: Jacob Martella
+* Package: Read More About
+* Version: 1.0
+*/
+.read-more-about {
+	width: 240px;
+	position: relative;
+	margin: 10px 0px;
+	text-align: center;
+	background-color: #262626;
+}
+.left {
+	float: left;
+	margin-right: 10px;
+}
+.center {
+	margin: auto;
+}
+.right {
+	float: right;
+	margin-left: 10px;
+}
+.read-more-about .title {
+	color: #ffffff;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 28px;
+	background-color: #000000;
+	margin: 0px;
+}
+.photo {
+	width: 220px;
+	height: 110px;
+	margin: auto;
+	overflow: hidden;
+}
+h3.story-title {
+	line-height: 1em !important;
+}
+.story-title a {
+	font-size: 20px;
+	color: #ffffff !important;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 400;
+}
