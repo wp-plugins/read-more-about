@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Read More About\n"
+"POT-Creation-Date: 2015-08-03 18:00-0500\n"
+"PO-Revision-Date: 2015-08-03 18:00-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: read-more-about.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/read-more-about-admin.php:27
+msgid "External"
+msgstr "Extern"
+
+#: admin/read-more-about-admin.php:28
+msgid "Internal"
+msgstr "Intern"
+
+#: admin/read-more-about-admin.php:33
+msgid "Related Links"
+msgstr "Weiterführende Links"
+
+#: admin/read-more-about-admin.php:52 admin/read-more-about-admin.php:101
+#: admin/read-more-about-admin.php:136
+msgid "External/Internal Link"
+msgstr "Externe/interne Link"
+
+#: admin/read-more-about-admin.php:67 admin/read-more-about-admin.php:110
+#: admin/read-more-about-admin.php:150
+msgid "External URL"
+msgstr "Externe URL"
+
+#: admin/read-more-about-admin.php:73 admin/read-more-about-admin.php:115
+#: admin/read-more-about-admin.php:155
+msgid "External URL Title"
+msgstr "Externe URL-Titel"
+
+#: admin/read-more-about-admin.php:79 admin/read-more-about-admin.php:120
+#: admin/read-more-about-admin.php:160
+msgid "Internal Post"
+msgstr "Interne Post"
+
+#: admin/read-more-about-admin.php:92 admin/read-more-about-admin.php:128
+#: admin/read-more-about-admin.php:173
+msgid "Remove Link"
+msgstr "Verknüpfung aufheben"
+
+#: admin/read-more-about-admin.php:177
+msgid "Add Link"
+msgstr "Link hinzufügen"
+
+#: read-more-about.php:62
+msgid "Read More"
+msgstr "Weiterlesen"
+
+#. Plugin Name of the plugin/theme
+msgid "Read More About"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.jacobmartella.com/read-more-about/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Allows users to add links in a story using a shortcode to provide addition "
+"reading material about a subject. Works great for large topics that can't "
+"all be explained in one post."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Jacob Martella"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.jacobmartella.com"
+msgstr ""
